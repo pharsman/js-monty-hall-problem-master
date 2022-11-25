@@ -1,0 +1,13 @@
+canvas {
+  margin-top: 50px;
+  border: 1px solid #d3d3d3;
+  background-color: #f1f1f1;
+}
+
+h3 {
+  padding-top: 15px;
+}
+
+.row {
+  margin-top: 40px;
+}
